@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BrowserReload' target in the 'BrowserReload' project
+//
+
+#ifdef __OBJC__
+  #import <Cocoa/Cocoa.h>
+#endif
